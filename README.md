@@ -39,4 +39,4 @@ python run_model_w_breast_knowledge.py --type {model_type}
 ```
 
 
-## Extensive deatils on the project can be found in the report.pdf file
+## Extensive deatils on the project can be found in the NLP_report.pdf file
