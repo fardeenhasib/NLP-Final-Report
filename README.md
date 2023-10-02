@@ -33,7 +33,10 @@ python disease_knowledge_infusion_training.py
 python run_model_without_disease_infused.py --type {model_type}
 ```
 
-###To finetune the model with breast cancer infused knowledge,
+### To finetune the model with breast cancer infused knowledge,
 ```
 python run_model_w_breast_knowledge.py --type {model_type}
 ```
+
+
+## Extensive deatils on the project can be found in the report.pdf file
