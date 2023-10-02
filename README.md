@@ -1,4 +1,4 @@
-# Multi-evidence Natural Language Inference for Clinical Trial Data¹[1]
+# Multi-evidence Natural Language Inference for Clinical Trial Data
 
 This project presents a natural language inference (NLI) task for clinical trial data, where the goal is to determine whether a hypothesis can be inferred from one or more clinical trial reports (CTRs). We utilized a dataset of breast cancer CTRs, hypotheses, explanations, and labels annotated by domain experts.  We also explored various models and methods to tackle this challenging task, such as BERT-based models, knowledge infusion, and contrastive learning.
 
