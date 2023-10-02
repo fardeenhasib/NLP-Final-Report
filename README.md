@@ -24,16 +24,16 @@ We reported the accuracy and F1-score of the models and methods on the test set 
 ```
 pip install -r requirements.txt
 ```
-### To generate breast cancer infused knowledge in the base model,
+### To finetune the model with breast cancer infused knowledge,
 ```
 python disease_knowledge_infusion_training.py
 ```
-### To finetune the model without breast cancer infused knowledge,
+### To run the model trained without breast cancer infused knowledge,
 ```
 python run_model_without_disease_infused.py --type {model_type}
 ```
 
-### To finetune the model with breast cancer infused knowledge,
+### To run the model trained with breast cancer infused knowledge,
 ```
 python run_model_w_breast_knowledge.py --type {model_type}
 ```
